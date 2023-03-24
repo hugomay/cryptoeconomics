@@ -1,3 +1,3 @@
-# blog
+# Allocation & Distribution
 
-The purpose of this section is to evolve. ..
+Token decentralization is one of the most..
